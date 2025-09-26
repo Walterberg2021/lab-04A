@@ -42,8 +42,6 @@ This policy applies to current **students** and **employees**.
 - Before final decisions, the **student record** should be reviewed for aggravating or mitigating factors.  
 - If the violation also involves the **Student Code of Conduct** or another non-academic policy, the matter will be handled through those processes.  
 
-## Procedures (Appendix A Example Table)
-
 ## Formal Reporting of Academic Integrity Violation
 
 | Action | Duration (unless extenuating circumstances arise) | Responsibility |
@@ -63,3 +61,4 @@ This policy applies to current **students** and **employees**.
 - [Seneca Policies and Procedures](https://www.senecacollege.ca/about/policies)
 - [Academic Integrity Report (PDF)](https://www.senecapolytechnic.ca/content/dam/projects/seneca/about/policies/academic-integrity-report.pdf)
 - [Student Response to the Academic Integrity Report (PDF)](https://www.senecapolytechnic.ca/content/dam/projects/seneca/about/policies/response-to-the-academic-integrity-report.pdf)
+- [Academic Appeal Policy](https://www.senecapolytechnic.ca/about/policies/academic-appeal-policy.html)
